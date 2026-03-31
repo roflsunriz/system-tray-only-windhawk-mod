@@ -59,7 +59,7 @@ This mod hides all taskbar elements except the system tray (notification area) a
 
 ## 要件 / Requirements
 
-- **OS**: Windows 11 バージョン **25H2** (ビルド 26200) のみ対応
+- **OS**: Windows 11 バージョン **25H2** (ビルド 26200) のみ対応 (26200.7623 と 26200.8037 で動作確認済み✅)
 - **Windhawk**: [https://windhawk.net](https://windhawk.net) をインストール済みであること
 - **アーキテクチャ**: x86-64
 
