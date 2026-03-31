@@ -4,6 +4,8 @@
 
 **システムトレイ以外を非表示にし、タスクバーを右下角の小さなフローティングトレイに変換します。**
 
+![System Tray Only](./image.png)
+
 [![License: GPL--3.0--or--later](https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011%2025H2-blue)](https://www.microsoft.com/windows)
 [![Windhawk](https://img.shields.io/badge/Windhawk-Mod-green)](https://windhawk.net)
